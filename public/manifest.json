@@ -1,0 +1,9 @@
+{
+  "short_name": "DropDown App",
+  "name": "Create DropDown App by Yonatan Riaznov",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

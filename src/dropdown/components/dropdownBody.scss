@@ -1,0 +1,19 @@
+ul {
+  &.dropdown-body-container {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    & .dropdown-option {
+      z-index: 999;
+      padding: 5px;
+      &.selected {
+        background-color: rgb(95, 197, 95);
+      }
+      &:hover {
+        background-color: lightgray;
+      }
+    }
+  }
+}
